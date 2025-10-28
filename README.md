@@ -3,9 +3,7 @@
   <strong>MERN Stack Developer</strong> | 🌱 Learning Next.js & DSA | 🚀 Building Full-Stack Apps
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26FPy3QZQqGtDcrja/giphy.gif" width="150"/>
-</p>
+
 
 ---
 
